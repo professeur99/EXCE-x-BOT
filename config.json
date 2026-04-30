@@ -9,7 +9,7 @@
       "antilink": true,
       "response": true,
       "autoreact": false,
-      "prefix": ".",
+      "prefix": "+",
       "reaction": "⚡",
       "welcome": true,
       "record": true,
